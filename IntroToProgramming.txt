@@ -1,0 +1,96 @@
+	1. Programming
+		a. Requires extreme attention to detail
+		b. Three phases
+			i. Inputs
+				1) Program gets data
+			ii. Process
+				1) Computations on Data
+			iii. Outputs
+				1) Displays / puts the data somehwere
+		c. Computational Thinkings aka - Algorithms
+			i. Create a sequence of instructions to solve a problem
+		d. A first program
+			i. Flowcharts
+				1) Creating / viewing programs
+				2) Coral flowchart
+					a) Learning language
+			ii. A program is a list of statements
+				1) Statements carry out actions
+			iii. Coral
+				1) For coral an interpreter runs statements
+					a) Run / Execute
+						i) Carry out statements
+					b) Simple language for learning to program
+					c) Two Versions:
+						i) Flowchart
+						ii) Code
+			iv. Parallelogram 
+				1) Input or output statement
+			v. String Literal
+				1) Text
+				2) Double Quotes
+				3) "Dogs"
+			vi. Characters
+				1) A-Z
+				2) Symbols (!@#$)
+				3) 0-9
+			vii. Cursor
+				1) Indicates where next output will go
+			viii. Newline
+				1) Two character sequence
+				2) Causes the next output to move down a line
+				3) Invisible in output
+		e. Comments and Whitespace
+			i. Comments
+				1) Text a programmer puts into the code to help the understanding of the code
+				2) Invisible when executing code
+				3) Starts with //
+					a) Includes all text on that line
+				4) Must be on its own line
+			ii. Whitespace
+				1) Blank spaces between items within a statement 
+					a) Also new lines
+				2) Why it matters
+					a) Cleanliness of formatting
+					b) Ease of readability to the end user
+					c) Precision is key in programming
+		f. Bits
+			i. On/Off's
+				1) 1 is on, 0 is off
+				2) A single bit is either one or zero
+				3) Multiple bits = a byte
+		g. ASCII
+			i. Codes for characters in a computer
+			ii. Every character (A-Z, 0-9, Symbols) has a unique identifier as a bit
+			iii. 100 001 = 1 A
+			iv. 010 0000 = Space
+			v. Can be written as a decimal number assigned to the code as well
+			vi. American standard code for information interchange
+			vii. 7 bits per code
+		h. Unicode
+			i. More bits than ASCII
+			ii. Accounts for over 100000 characters
+		i. Binary
+			i. Power of two
+			ii. Holds 1 or 0
+		j. Computing Careers
+			i. Training in programming
+			ii. Related fields like analytics
+		k. Code and Pseudocode
+			i. Pseudocode
+				1) Resembles a program in a real programming language but is simplified to aid human understanding
+				2) Compact 
+					a) Represents programs statements summarized
+				3) Informal textual description of a program
+	2. Programming Summary
+		a. Instructions to execute one at a time (statements)
+		b. Variables hold data
+		c. Flowcharts have nodes
+		d. Can output a variable value, string literal 
+		e. Can contain comments starting with //
+		f. Most whitespace is ignored
+		g. Data is in bits
+			i. 1's or 0's
+		h. Attention to detail is key
+			
+		
