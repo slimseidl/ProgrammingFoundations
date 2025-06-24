@@ -1,0 +1,60 @@
+	1. Algorithm
+		a. A sequence of steps that solves a problem
+			i. Generates correct output for any valid input values
+		b. Can be written in English, pseudo-code, programming language, etcc.
+			i. Must describe steps 
+		c. Practical Applications
+			i. DNA analysis
+				1) Shared sequences of nucleotides
+			ii. Search Engines
+			iii. Navigation
+				1) What is the fastest route give location and desired location?
+		d. Efficiency
+			i. Measured by run time 
+	2. Time Efficiency
+		a. Number of calcs required to solve a problem
+		b. Binary Search
+			i. Looks at middle of range
+				1) If value > middle
+					a) Search upper half
+						i) Else search lower half
+							One. Continues finding the middle of each range to find the value
+		c. Linear search
+			i. Numbers the list 1 through Nth 
+			ii. Slower than binary
+	3. NP Complete
+		a. Set of problems for which no known efficient algorithm exists
+		b. Characteristics
+			i. No efficient algorithm has been found
+	4. Efficiency
+		a. Measured by computational complexity
+			i. Amount of resources used for algorithm
+				1) Runtime
+				2) Memory Usage
+				3) Network communication
+				4) Etc..
+		b. Complexity analysis
+			i. Used to avoid algorithms with long run times or high memory usage
+		c. Run Time Complexity
+			i. A function
+				1) T(N)
+					a) Represents the number of constant time operations performed for an input of size N
+			ii. Best Case
+				1) Minimum number of operations
+			iii. Worst Case
+				1) Maximum
+		d. Space Complexity
+			i. S(N)
+				1) Represents the number of memory units used for input
+		e. Searching and Algorithms - 7.4 
+	5. Sorting
+		a. Converting a list of elements into ascending or descending order
+			i. Using swapping 
+				1) With temporary variables
+	6. Heuristics
+		a. Optimal way of solving a problem includes more resources than are available or feasible
+		b. Willingly accepts a non-optimal solution for faster execution
+		c. Heuristic Algorithm
+			i. Quickly determines a near optimal solutions
+			
+		

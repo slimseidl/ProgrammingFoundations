@@ -1,0 +1,201 @@
+	1. Remembering a value
+	2. Variables and assignments
+		a. Variable
+			i. Named items
+				1) X, Y, Z
+				2) numPeople
+		b. Assignment Statement
+			i. Assigns a variable with a value
+				1) X = 17
+				2) Y = 3
+			ii. Left side must be a variable
+			iii. Right side is an expression
+			iv. Example 
+				1) X = 5
+				2) Z = W + 2
+			v.  = is not equals
+				1) An assignment of a value to a variable
+				2) X is assigned to 5
+					a) Not X equals 5
+			vi. New assignments do not affect executions ran before the new assignment
+				1) X = 5
+				2) Y = X + 7
+				3) X = 24
+						i) Y still is assigned 12 because the new assignment of X was subsequent 
+		c. Assignments with variables on both sides
+			i. X = X + 1
+				1) If X was initially assigned as 6 in a prior assignment, then x would now = 6 +1 or 7
+		d. Variable Declarations
+			i. Declares a new variables 
+			ii. Specifies name and type
+			iii. Integer
+				1) Holds whole number values 
+					a) 1
+					b) 999
+					c) -25
+					d) 0
+				2) Not decimal numbers
+				3) Initial value of 0 in Coral
+		e. Assignment Statements
+			i. Assigns left side variable with current value on right side
+				1) numPeople = 12
+			ii. Expression
+				1) Number
+				2) Name
+					a) numApples
+				3) Calculation
+					a) numFruits + 4
+			iii. With same variables on both sides
+				1) numItems is initally 5
+					a) numItems = numItems + 1
+						i) Becomes 6
+		f. Identifiers
+			i. Name created for a variable
+				1) Sequence of letters, underscores, and digits
+				2) Start with a letter
+				3) Case sensitive
+			ii. Reserved word
+				1) Also called a keyword
+					a) Put
+					b) Get
+					c) To
+					d) Next
+					e) Input
+					f) output
+				2) Cannot be used for an identifier 
+			iii. Common Naming Conventions
+				1) Lower Camel Case
+					a) Capitalize words except for the first
+						i) numCharacters
+						ii) numPeople
+				2) Underscore Separator 
+					a) num_cars
+		g. Arithmetic Expressions
+			i. Expressions
+				1) Can be just a variable
+				2) Combo of items
+					a) Variables
+					b) Strings
+					c) Operators
+					d) Parentheses
+				3) Evaluates a value
+					a) 2 * (x + 1)
+			ii. Literal
+				1) Specific value in a code
+			iii. Operator
+				1) Symbol that performs calculation
+		h. Incremental Development
+			i. Writing / Testing a small amount of code, then performing the same actions on a little more until end result is reached
+		i. Float
+			i. Floating Point Number
+				1) Real Number
+					a) 98.6
+					b) 0.00001
+					c) -665
+				2) Refers to the decimal point being able to appear anywhere in the number
+			ii. Floating point literal
+				1) Number with a fractional part
+					a) Even 0 
+					b) 1.0
+					c) 0.0
+					d) 99.573
+				2) Always put a digit before the decimal point
+					a) 0.5 rather than .5
+		j. Choosing a Variable Type
+			i. Float vs. Integer
+				1) Integers 
+					a) Values that are counted
+						i) 42 cars
+						ii) 1000 people
+				2) Float
+					a) Values that are measured
+						i) 98.0 Degrees
+						ii) 0.15 meters
+						iii) 845.547 grams
+					b) Fractions
+						i) Averages
+					c) Advise against using float for currency
+		k. Float divide by zero
+			i. Allows divide by zero
+				1) Produces infinity or -infinity
+			ii. 0 divided by 0
+				1) Produces "not a number"
+					a) Undefined values
+				2) Nan 
+					a) Not AN Number
+		l. Manipulating float output
+			i. Repeating decimals
+				1) 5 digits on average after decimal
+					a) Round a defined number of decimals
+						i) 2 for currency
+				2) Put myfloat to output with 3 decimal places
+		m. Using Math Functions
+			i. List of statements executed by invoking functions name
+				1) Arguments appear with () 
+					a) Separated by commas
+			ii. Coral built-in functions
+				1) SquareRoot(x)
+				2) RaiseToPower(x,y)
+				3) AbsoluteValue(X)
+		n. Random Numbers
+			i. Generate random initial password
+			ii. Roll a dice
+			iii. Two arguments
+				1) lowValue
+				2) highValue
+					a) Random integer in the range
+				3) Ex
+					a) RandomNumber(0,100)
+						i) 54
+			iv. Pseudo Random
+				1) Invisibly keeps track of last number
+				2) Seeds
+					a) First call of random number
+					b) Number based on current time
+		o. Integer Division
+			i. Rounds the integer
+			ii. Uses floating point if at least one value is float type
+			iii. Cannot divide by 0 in integers
+		p. Type conversions
+			i. Mixing float and integers
+			ii. Conversion of one type to another
+				1) Integer to float or vice versa
+			iii. Implicit conversions
+				1) Automatic
+			iv. Right side of equation is auto converted to left side
+				1) 1 = x + 2.0
+					a) Integer
+		q. Type Casting
+			i. Floating point derived from two integers
+			ii. Converts a value of one type to another
+				1) Multiply integer by 1.0
+		r. Modulo Operator
+			i. % of the remainder
+			ii. 23 * 10% = 
+				1) % is the remainder
+			iii. Odd Number Remainders % 2 = 1 
+			iv. Even %2 = 0
+			v. ONLY FOR INTEGERS
+			vi. ERROR OUT IF FLOAT
+			vii. Deals with remainder, not the decimal value
+		s. Data Types
+			i. Integer
+			ii. Float
+			iii. Character
+				1) Single Letters
+			iv. String
+				1) Sequence of characters
+			v. Boolean
+				1) True / False
+			vi. Array
+				1) Ordered list of items
+		t. Constants
+			i. Holds a value that cant change
+				1) Pi
+				2) Lightspeed
+			ii. Naming convention
+				1) All caps
+				2) Underscores sepsrsting words
+			
+		
+			

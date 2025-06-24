@@ -1,0 +1,49 @@
+	1. Basics of Functions
+		a. A function
+			i. Is a named list of statements
+		b. Function Definition
+			i. Consists of the new functions name and a block of statements
+				1) Can be any valid identifier
+		c. Function Call
+			i. Invocation of a functions name
+				1) Causes the statements to run
+		d. Local variable 
+			i. Variable declared in a function
+				1) Accessible to only that function
+		e. Parameters
+			i. Function input specified in definition
+		f. Argument
+			i. Value provided to parameter during function call
+		g. Multiple / No parameters
+			i. Multiple 
+				1) PrintArea(12.0, 16.0)
+			ii. None
+				1) PrintArea()
+	2. Returning a value from a function
+		a. A fynction may return 1 value by assigning a return variable with the reutrn value
+		b. Can only have one return variable
+	3. Mathematical Functions
+	4. Functions within functions
+	5. Reasons for UD functions
+		a. Program readability
+			i. Decomposing program into functions
+	6. Modular Development
+		a. Dividing a program into separate modules that can be developed and tested separately and then integrated into a single program
+	7. Incremental development
+		a. Write and test a few statements then a few more after and so on
+	8. Function Stub
+		a. Function definition with statements not yet written
+		b. Capture high level behavior of main function and required functions
+			i. Before getting into the details
+	9. Redundant statements
+		a. Can be avoided by calling a function
+			i. Absolute value function
+				1) Rather than writing every time an absolute value is needed
+	10. Code for functions
+		a. Begins with the word function
+			i. Followed by the function name
+				1) Followed by parameters in parentheses, separated by a comma
+					a) Followed by a return value
+		b. Variables start on next line rather than at the top
+	
+		

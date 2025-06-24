@@ -1,0 +1,99 @@
+	1. System Development Life Cycle
+		a. SDLC
+		b. Phases
+			i. Analysis
+				1) Defines a programs goals
+			ii. Design
+				1) Defines specifics of how to build a program
+			iii. Implementation
+				1) Writing the program
+			iv. Testing phase
+				1) Checks that the programs meet goals
+		c. WaterFall vs. Agile approach
+			i. Waterfall
+				1) Carrying out phases of SDLC in sequence
+				2) Cant come back to an earlier phase
+					a) Analysis then design then implement then test
+				3) Each phase begins after the previous is complete
+			ii. Agile
+				1) Doing small amounts of each phase in sequence
+				2) Then repeating
+				3) Goes through the phases in a circle, then spirals out to add more to the program each cycle
+		d. Objects
+			i. Grouping things into onjects
+			ii. A grouping of variables and ops that can be performed on functions
+			iii. The world is viewed as objects rather than materials
+				1) Grouping Objects example
+					a) Wood is a material
+						i) Chair is an object
+			iv. Operations can be performed with the objectss
+			v. Abstraction / Info Hiding
+				1) Abstraction
+					a) Having a user ineract with an item at a high level
+						i) Lower level details hidden
+							One. Information hiding or encapsulations
+						ii) An oven has a knob for heat
+							One. Don’t need to mess with internal parts
+				2) Abstract Data Types (ADT)
+		e. Universal Modeling Language
+			i. Modeling language that uses diagrams to visualize the strucutre and behavior of programs
+			ii. Structural Diagrams
+				1) Static elements modeled
+					a) Types of variables and functions used
+				2) Behavioral diagram
+					a) Visualizes dynamics
+						i) Flow of algorithm
+				3) Activity diagrams
+					a) Useful durinbg implementation phase
+					b) Flowchart
+						i) Flow of activities
+				4) Use case diagram
+					a) Useful in analysis phase of SDLC
+					b) Things a user would do
+					c) How a user interacts with a software
+					d) Behavioral Type
+				5) Class diagram
+					a) Usrful in design phase of SDLC
+					b) Shows programs parts
+					c) Structural Type
+					d) Shows Classes
+						i) Code blueprint for creating an object that is composed of data memebers and fucntions that operate those data members
+				6) Sequence Diagrams
+					a) Testing phase
+					b) Behaviroal Type
+					c) Interactions between software components
+					d) Always indicates order of events
+			iii. Used in various phases of SDLC
+		f. Comparing Waterfall / Agile
+			i. Software requirements specification
+				1) Analysis phase produces in waterfall and agile
+					a) Describes all requirements for the project
+			ii. Design phase deliverables for waterfall and agile
+				1) UML diagrams
+					a) Show how the program should be built
+				2) Implementation
+					a) Waterfall
+						i) Functional end product
+					b) Agile
+						i) One or more components
+				3) Testing
+					a) Waterfall
+						i) Functional product
+					b) Agile
+						i) Satisfies a portion
+			iii. Waterfall Pros / Cons
+				1) Pros
+					a) Requirements set early
+					b) Progress and time easily measured
+				2) Cons
+					a) Cant go back to a phase if a requirement is missed
+			iv. Agile Pros / Cons
+				1) Pros
+					a) Frequent user comms
+					b) Easier to handle changes
+				2) Cons
+					a) Final design uncertain
+					b) Cycles repeat more often as problems are found
+			
+				
+			

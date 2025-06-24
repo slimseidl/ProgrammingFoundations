@@ -1,0 +1,28 @@
+	1. Language Survey
+		a. Compiled Language
+			i. Converted by a tool into machine code which can run on a certain machine
+				1) C
+				2) C++
+				3) Java
+			ii. Run Faster
+			iii. Statically typed
+				1) Variables cant change while executing
+		b. Interpreted Language (scripting language)
+			i. Ran one statement at a time by another program called an interpreter
+				1) Python
+				2) JavaScript
+				3) MATLAB
+			ii. Normally easier for new users
+			iii. Dynamically typed
+				1) Variables can change based on assignments
+		c. Markup languages
+			i. Describe a documents content formatting and other features
+				1) HTML is a markup language
+					a) Puts tags around text to indicate formatting 
+	2. Libraries
+		a. Set of pre written functuons that carry out common tasks
+			i. Programmer can use to improve productivity
+		b. Can have a fuck ton of functions
+	
+			
+			

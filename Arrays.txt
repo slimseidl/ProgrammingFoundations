@@ -1,0 +1,18 @@
+	1. Array Concepts
+		a. An array is a special type of variable having one name but storing a list of data items
+			i. Each directly accessible 
+		b. Some languages use vectors
+			i. Similar to array
+		c. Each item in an array is called an element
+		d. Each elements location number is referred to as an index
+			i. Number inside brackets
+			ii. Index is what enables direct access to the element 
+	2. Array Declarations and Accessing Elements
+		a. Size
+			i. Attribute indicating the number of array elements
+		b. Index
+			i. Start with 0 rather than 1 in Coral and most languages
+			ii. Index is an expression
+			iii. Must be integer type
+	3. Arrays and Loops
+		

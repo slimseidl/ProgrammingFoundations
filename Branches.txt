@@ -1,0 +1,87 @@
+	1. Branches
+		a. Branch
+			i. Sequence of statements ran under a certain condition
+		b. Decision
+			i. Creates two branches
+				1) Like an if statement
+				2) If decisions expression is true
+					a) 1st branch executes else 2nd branch 
+			ii. Diamond Symbol in flow chart
+		c. If-Else with two branches
+			i. If statement is true
+				1) True branch executes
+				2) Else false branch runs
+			ii. Only one branch can execute
+			iii. True or False
+		d. If Else - Max Value
+			i. If X > y 
+				1) X = max
+					a) Else y = max
+		e. If Else If Branches
+			i. Branches can have branches and decisions within it 
+				1) If years == 1 
+					a) Put newlyweds
+				2) Elseif years == 25 
+					a) Put silver
+				3) Elseif year == 50 
+					a) Put Golden
+				4) Else
+					a) Put Congrats
+		f. Multiple If
+			i. Each decision is independent
+				1) More than one branch can execute
+		g. Equality operators
+			i. Checks if values are the same
+				1) ==
+			ii. Or Different
+				1) !=
+			iii. Evals to a boolean
+				1) True or false
+			iv. A == B
+				1) A is equal to B 
+			v. A != B 
+				1) A is not equal to B
+		h. Relational Operator
+			i. >, <, >=, <=
+		i. Detecting Ranges using Branches
+			i. U8
+				1) Under 8
+					a) Excludes 1-5
+					b) 6, 7
+				2) U10
+					a) 8, 9
+		j. Cascading Decisions
+			i. Second decision only considered if the first decision is false
+		k. Logical Operators
+			i. And, Or, Not
+			ii. And
+				1) Both are true
+			iii. Or
+				1) One is true
+			iv. Not
+				1) Opposite
+			v. Commonly found in decision expressions
+		l. Order of Evaluations
+			i. Parentheses
+			ii. Not
+				1) / % + -
+				2) <, >, <=, >=
+				3) == !=
+				4) And
+				5) Or
+			iii. Use parentheses where possible to avoid common mistakes and confusion
+		m. Floating Point Comparison
+			i. Do not use == operator
+				1) Due to precision of float
+			ii. Compare for close enough rather than exact
+				1) Thresholds
+					a) .00001 is common
+					b) Called Epsilon
+				2) If abs((X - Y)) < 0.0001
+					a) Considered equal
+		n.  Code: Branches
+			i. In code, statements use an "if" 
+
+				
+		
+		

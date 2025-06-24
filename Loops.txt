@@ -1,0 +1,81 @@
+	1. Loop Basics
+		a. Executes loops statements when true
+			i. When false
+				1) Executes next action
+		b. Each pass is called an iteration
+		c. Continues until statement is false
+		d. Can be used to compute an average of a group of numbers
+		e. Statements execute one at a time
+			i. Use a loop to examine a list of values one at a time and update variables along the way
+				1) Common in programming
+		f. Count specific values in a list
+			i. Negative numbers
+			ii. Positive numbers
+			iii. End with a specific value
+		g. Finding the max value
+	2. Getting input before a loop
+		a. Can use input in two places
+			i. Beginning  before loop
+			ii. Loop Body End
+	3. Loop Expressions
+		a. Relational operators can be used in a loop
+			i. Loop will execute as long as x > y
+				1) Or x < y
+			ii. Executed as long as 
+				1) X != y
+	4. Common Errors with Loops
+		a. Using the opposite relation operator than desired
+			i. X ==0 instead of x != 0
+		b. Infinite Loops
+			i. Indefinite false
+			ii. Forgetting to update a variable
+		c. Remember to update needed variables at the end of a loop body
+	5. More Loop Examples
+		a. Calculating greatest common denominator
+			i. Looping values until the numbers are equal
+		b. Input until sentinel
+			i. Sentinel value
+				1) A value indicating the end of the list
+	6. Looping N Times
+		a. Loops commonly run a specified number of times
+			i. 3 Parts:
+				1) Variable initialization before loop
+				2) Decision statement
+				3) Loop variable update
+		b. Finding the Max
+			i. Analyzing data
+			ii. Updating to a max seen so far in the list until all iterations are ran
+	7. A loop can start with a negative value
+	8. While and for loops
+		a. While
+			i. Repeatedly iterates loop body while expression is true
+		b. For
+			i. Specific number of times executed
+			ii. Use when number of times is known
+	9. Nested Loops
+		a. Loop that appears in the body of another loop
+			i. Inner loop
+		b. Outer loop is the first loop
+	10. Do while loops
+		a. Executes loop body before checking the condition
+	11. Code "For" Loops
+		a. For (variable initialization); condition; variable update
+			i. Separated 3 sections with a semicolon
+		b. Body
+			i. Indented from first "for" statement
+	12. Swapping two variables
+		a. Swapping x to y and y to x
+			i. Typically uses a third variable
+		b. Swap Arrays
+			i. Swap outermost
+				1) Then next outermost
+					a) Until middle is reached
+	13. Code for Arrays
+		a. Integer array(size) x 
+		b. Elements
+			i. Value[0] 
+			ii. Value[1]
+				1) Etc….
+		
+			
+			
